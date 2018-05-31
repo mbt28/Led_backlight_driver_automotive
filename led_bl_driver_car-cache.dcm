@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LP8862-Q1
+D Low-EMI Automotive LED Driver With Two 160-mA Channels
+K led backlight driver,
+F C:/Users/mtekbas/Google Drive/Electronics/Kicad/DSI2LVDS/datasheets/lp8862-q1.pdf
+$ENDCMP
+#
+#End Doc Library
